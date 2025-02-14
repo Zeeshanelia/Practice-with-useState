@@ -1,1 +1,1 @@
-https://github.com/Zeeshanelia/Practive-with-useState.git
+ https://github.com/Zeeshanelia/Practice-with-useState.git
