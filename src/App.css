@@ -1,0 +1,20 @@
+.mainDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.abc{
+  border :solid .1rem black ; 
+  border-radius: 1rem;
+}
+
+button{
+  margin: .3rem;
+  padding: .3rem;
+  border-radius: 1rem;
+  background-color: #f1f1f1;
+  border: none;
+  cursor: pointer;
+}
